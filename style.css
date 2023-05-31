@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+}
+.score{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: aqua;
+
+}
+#reset-button{
+    background-color: darkblue;
+    border-radius: 30px;
+    border: 5px solid darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: auto;
+    cursor: pointer;
+
+}
+#reset-button:hover{
+    background-color: purple;
+}
